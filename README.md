@@ -1,5 +1,5 @@
 # hello-world
-My first repository
+My first repository following the github documentation
 
 - 👋 Hi, I’m @realwangyuxiang
 - 👀 I’m interested in ...
